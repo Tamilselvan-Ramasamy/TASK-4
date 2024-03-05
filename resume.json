@@ -1,0 +1,37 @@
+{
+    "basics": {
+      "name": "Tamilselvan",
+          "email": "123@gmail.com",
+      "phone": "9999555588",
+      "degree": "BCA",
+   "summary": "Fullstack Dev.",
+      "location": {
+        "address": "xxxx yyyy",
+        "postalCode": "666666",
+        "city": "Coimbatore",
+        "country": "India"
+          }
+        },
+      "work": [
+      {
+        "company": "TCS",
+        "position": "System Eng",
+  
+      "startDate": "2020-08-24",
+        "endDate": "Nil",
+       "summary": "Application deployment is the process of delivering  applications, updates, patches, and modules from developers to users. Application deployment happenson the application server"
+          
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bharathiar University",
+        "area": "Computer Application",
+        "studyType": "Full-time",
+        "startDate": "2017"
+      }
+    ]
+
+  }
+
+
